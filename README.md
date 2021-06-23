@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # About Me
 Hello! My name is Jimmy Wallace, I am a student at Virginia Tech studying computer science, graduating Fall 2021.   
-I am interested in backend development and automation  
+I am interested in backend development and automation. Currently a software developer intern at [SiteZeus](sitezeus.com)   
 
 ## Resume  
 You can find my resume by clicking **[here](https://drive.google.com/file/d/1eMiM4UYobqHxqusYBqVhTsjEthEaqxIu/view?usp=sharing)**
