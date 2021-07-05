@@ -26,14 +26,12 @@ You can find my resume by clicking **[here](https://drive.google.com/file/d/1eMi
 
 **[DnD-Bot](https://github.com/jamesw98/dnd-bot)**: A Discord bot written in Python to help in playing Dungeons and Dragons. This was my side project during COVID lockdown. Can roll dice, track initiative, store and load character sheets and spell books, and search for a variety of D&D topics. 
 
-**Virginia Tech Grading Tools**: Similar to my Simple-Grader project, but written specifically for Virginia Tech. Specifically for the CS3304: Comparative Languages course. Also a work in progress, but currently supports Pascal and Haskell submissions. Other planned langauges are Ruby and Prolog  
+**Virginia Tech Grading Tools**: Similar to my Simple-Grader project, but written specifically for Virginia Tech. Written for David Mcpherson for [CS3304](https://cs.vt.edu/Undergraduate/courses/CS3304.html) and [CS2505](https://courses.cs.vt.edu/~cs2505/spring2020/). This tool lets instructors download submissions from Canvas, grade the submissions with a reference solution, and upload the grade and feedback to the assignment on Canvas. 
 
 ### Fun Facts
 
 * I've been fencing for coming up on 14 years now
 * I am a coach for Dunwoody Fencing Club in Georgia
 * I held 3 officer positions over 4 years at the Virginia Tech Fencing Club: Men's Team Captain, Vice President, and President 
-* I am an avid disc golfer
-
 
 
