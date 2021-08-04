@@ -18,7 +18,7 @@ Hello! My name is Jimmy Wallace, I am a student at Virginia Tech studying comput
 I am interested in backend development and automation. Currently a software developer intern at [SiteZeus](https://sitezeus.com/)   
 
 ## Resume  
-You can find my resume by clicking **[here](https://drive.google.com/file/d/1eMiM4UYobqHxqusYBqVhTsjEthEaqxIu/view?usp=sharing)**
+You can find my resume by clicking **[here](https://drive.google.com/file/d/1Ea-nJNXTA70cXxrNE7RjJR3xRfE1NuIW/view?usp=sharing)**
 
 ### Recent Projects
 
