@@ -22,11 +22,13 @@ You can find my resume by clicking **[here](https://drive.google.com/file/d/1Ea-
 
 ### Recent Projects
 
-**[SimpleGrader](https://github.com/jamesw98/simple-grader)**: A versatile tool for grading student coding assignment submissions. A work in progress, currently working on getting a Docker image built so it can be run on any system  
+**Virginia Tech Grading Tools**: Similar to my Simple-Grader project, but written specifically for Virginia Tech. Written for David Mcpherson for [CS3304](https://cs.vt.edu/Undergraduate/courses/CS3304.html) and [CS2505](https://courses.cs.vt.edu/~cs2505/spring2020/). This tool lets instructors download submissions from Canvas, grade the submissions with a reference solution, and upload the grade and feedback to the assignment on Canvas. 
+
+**[SimpleGrader](https://github.com/jamesw98/simple-grader)**: Similar to GradingTools, but open source. This was the original proof of concept presented to Mr. McPherson to start off the GradingTools project. It is somewhat complete, but also in the progress of being rewritten with snippets of code from the updated GradingTools project. 
 
 **[DnD-Bot](https://github.com/jamesw98/dnd-bot)**: A Discord bot written in Python to help in playing Dungeons and Dragons. This was my side project during COVID lockdown. Can roll dice, track initiative, store and load character sheets and spell books, and search for a variety of D&D topics. 
 
-**Virginia Tech Grading Tools**: Similar to my Simple-Grader project, but written specifically for Virginia Tech. Written for David Mcpherson for [CS3304](https://cs.vt.edu/Undergraduate/courses/CS3304.html) and [CS2505](https://courses.cs.vt.edu/~cs2505/spring2020/). This tool lets instructors download submissions from Canvas, grade the submissions with a reference solution, and upload the grade and feedback to the assignment on Canvas. 
+**[Exploration-A](https://github.com/jamesw98/exploration-a)**: A topdown 2D game written in Godot based on the Navidson Record from the book House of Leaves. Right now it is just a proof of concept level, but I still plan on working on it in my free time. 
 
 ### Fun Facts
 
