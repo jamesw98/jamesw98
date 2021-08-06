@@ -28,7 +28,7 @@ You can find my resume by clicking **[here](https://drive.google.com/file/d/1Ea-
 
 **[DnD-Bot](https://github.com/jamesw98/dnd-bot)**: A Discord bot written in Python to help in playing Dungeons and Dragons. This was my side project during COVID lockdown. Can roll dice, track initiative, store and load character sheets and spell books, and search for a variety of D&D topics. 
 
-**[Exploration-A](https://github.com/jamesw98/exploration-a)**: A topdown 2D game written in Godot based on the Navidson Record from the book House of Leaves. Right now it is just a proof of concept level, but I still plan on working on it in my free time. 
+**[Exploration_A](https://github.com/jamesw98/exploration_a)**: A topdown 2D game written in Godot based on the Navidson Record from the book House of Leaves. Right now it is just a proof of concept level, but I still plan on working on it in my free time. 
 
 ### Fun Facts
 
