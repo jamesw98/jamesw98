@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 
 # About Me
 Hello! My name is Jimmy Wallace, I am a student at Virginia Tech studying computer science, graduating Fall 2021.   
-I am interested in backend development and automation. Currently a software developer intern at [SiteZeus](https://sitezeus.com/)   
+I am interested in backend development and automation. Currently a Undergrad TA for [CS3744](https://cs.vt.edu/Undergraduate/courses/CS3744.html)
 
 ## Resume  
 You can find my resume by clicking **[here](https://drive.google.com/file/d/1Ea-nJNXTA70cXxrNE7RjJR3xRfE1NuIW/view?usp=sharing)**
 
 ### Recent Projects
 
-**Virginia Tech Grading Tools**: Similar to my Simple-Grader project, but written specifically for Virginia Tech. Written for David Mcpherson for [CS3304](https://cs.vt.edu/Undergraduate/courses/CS3304.html) and [CS2505](https://courses.cs.vt.edu/~cs2505/spring2020/). This tool lets instructors download submissions from Canvas, grade the submissions with a reference solution, and upload the grade and feedback to the assignment on Canvas. 
-
-**[SimpleGrader](https://github.com/jamesw98/simple-grader)**: Similar to GradingTools, but open source. This was the original proof of concept presented to Mr. McPherson to start off the GradingTools project. It is somewhat complete, but also in the progress of being rewritten with snippets of code from the updated GradingTools project. 
+**[Virginia Tech Grading Tools](https://github.com/jamesw98/GradingTools)**: Originally written for David Mcpherson for [CS3304](https://cs.vt.edu/Undergraduate/courses/CS3304.html) and [CS2505](https://courses.cs.vt.edu/~cs2505/spring2020/). This tool lets instructors download submissions from Canvas, grade the submissions with a reference solution, and upload the grade and feedback to the assignment on Canvas. 
 
 **[DnD-Bot](https://github.com/jamesw98/dnd-bot)**: A Discord bot written in Python to help in playing Dungeons and Dragons. This was my side project during COVID lockdown. Can roll dice, track initiative, store and load character sheets and spell books, and search for a variety of D&D topics. 
 
