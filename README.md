@@ -20,13 +20,12 @@ I graduated from Virginia Tech with a bachelors degree in computer science in De
 ## Resume  
 You can find my resume by clicking **[here](https://drive.google.com/file/d/1Ea-nJNXTA70cXxrNE7RjJR3xRfE1NuIW/view?usp=sharing)**
 
-### Recent Projects
+### Recent Projects  
+**[GHSFL Roster API](https://github.com/jamesw98/ghsfl-api)**: An api written for the GA High School Fencing League to help collect rosters for tournaments. This is paired with a fairly simple SPA (that will eventually be in my GitHub)
 
 **[Virginia Tech Grading Tools](https://github.com/jamesw98/GradingTools)**: Originally written for David Mcpherson for [CS3304](https://cs.vt.edu/Undergraduate/courses/CS3304.html) and [CS2505](https://courses.cs.vt.edu/~cs2505/spring2020/). This tool lets instructors download submissions from Canvas, grade the submissions with a reference solution, and upload the grade and feedback to the assignment on Canvas. 
 
 **[DnD-Bot](https://github.com/jamesw98/dnd-bot)**: A Discord bot written in Python to help in playing Dungeons and Dragons. This was my side project during COVID lockdown. Can roll dice, track initiative, store and load character sheets and spell books, and search for a variety of D&D topics. 
-
-**[Exploration_A](https://github.com/jamesw98/exploration_a)**: A topdown 2D game written in Godot based on the Navidson Record from the book House of Leaves. Right now it is just a proof of concept level, but I still plan on working on it in my free time. 
 
 ### Fun Facts
 
