@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 Hello! My name is James Wallace, I currently work for [SiteZeus](https://sitezeus.com/) as a Backend Developer.    
 I graduated from Virginia Tech with a bachelors degree in computer science in December 2021. 
 
-## Resume  
-You can find my resume by clicking **[here](https://drive.google.com/file/d/1Ea-nJNXTA70cXxrNE7RjJR3xRfE1NuIW/view?usp=sharing)**
-
 ### Recent Projects  
 **[GHSFL Roster API](https://github.com/jamesw98/ghsfl-api)**: An api written for the GA High School Fencing League to help collect rosters for tournaments. This is paired with a fairly simple SPA (that will eventually be in my GitHub)
 
