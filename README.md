@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me
-Hello! My name is James Wallace, I currently work for [SiteZeus](https://sitezeus.com/) as a Backend Developer.    
+Hello! My name is James Wallace, I am a developer passionate about backend development, especially .NET.    
 I graduated from Virginia Tech with a bachelors degree in computer science in December 2021. 
 
 ### Recent Projects  
