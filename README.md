@@ -26,7 +26,7 @@ I graduated from Virginia Tech with a bachelors degree in computer science in De
 
 ### Fun Facts
 
-* I've been fencing for coming up on 14 years now
+* I've been fencing 15 years
 * I am a coach for Dunwoody Fencing Club in Georgia
 * I held 3 officer positions over 4 years at the Virginia Tech Fencing Club: Men's Team Captain, Vice President, and President 
 
