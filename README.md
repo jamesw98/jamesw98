@@ -23,10 +23,3 @@ I graduated from Virginia Tech with a bachelors degree in computer science in De
 **[GeoHelper](https://github.com/jamesw98/GeoHelper)**: A Blazor WASM app that lets users view WKTs and GeoJSON. 
 
 **[Virginia Tech Grading Tools](https://github.com/jamesw98/GradingTools)**: Originally written for David Mcpherson for [CS3304](https://cs.vt.edu/Undergraduate/courses/CS3304.html) and [CS2505](https://courses.cs.vt.edu/~cs2505/spring2020/). This tool lets instructors download submissions from Canvas, grade the submissions with a reference solution, and upload the grade and feedback to the assignment on Canvas. 
-
-### Fun Facts
-
-* I've been fencing for 15 years!
-* I am now a coach for the club I've fenced for all 15 years
-
-
